@@ -26,7 +26,7 @@ module.exports = {
    rinkeby: {
      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/${infuraKey}`),
      network_id: 4,   // This network is yours, in the cloud.
-     gas: 5500000    // Treats this network as if it was a public net. (default: false)
+     gas: 7000000    // Treats this network as if it was a public net. (default: false)
    }
  }
 };

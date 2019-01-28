@@ -1,0 +1,6 @@
+The project has been integrated with Infura APIs and is configured to be launched on Rinkeby Testnet.
+
+The .secret file contains the 12 phrase seed and the Account[0] represents the SuperAdministrator account that has deployed the MarketPlace contract.
+
+The project is deployed @ 0xb56239B343D2F59abb840b1c20DeF9f908102A5d on Rinkeby Testnet.
+Once the abi (which can be found in the MarketPlace.json in the src/contracts folder) is keyed in, the functions and attributes of the contract are accessible and testable.
